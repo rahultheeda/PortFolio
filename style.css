@@ -1,0 +1,82 @@
+body{
+  background-color: white;
+  font-family: Mukta;
+}
+
+.navbar {
+  background-color: #001C30;
+}
+.button{
+  float: inherit;
+  font-weight: bold;
+  position: relative;
+      left: 36%;
+      margin-top: 40px;
+}
+.navbar-brand {
+  color: #fff;
+}
+
+.nav-link {
+  color: #11999e;
+}
+
+.container{
+  width: 100%;
+  text-align:  center;
+}
+
+
+img {
+
+    height: 25px;
+}
+
+.hello{
+  height: 100px;
+  position: absolute;
+  left: -550%;
+  top: -164px;
+}
+.profile{
+  height:200px;
+  width: 200px;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #46CDCF;
+  display: inline;
+  position: absolute;
+  left: -350%;
+  top: -83px;
+}
+.profile_img{
+  float: inherit;
+
+}
+.hello_img{
+  float: right;
+
+}
+h1{
+  margin: 10px;
+  font-weight: bold;
+  color: #176B87;
+  font-family: Caveat;
+}
+.side{
+  color: #17594A;
+  font-weight: bold;
+}
+table{
+  position: relative;
+  left: 25%;
+  width:50%;
+}
+
+.table1 :hover{
+  background-color: #A5DEE5;
+}
+.arrow{
+  position: relative;
+  left: 90%;
+}
