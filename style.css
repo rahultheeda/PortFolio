@@ -66,6 +66,7 @@ h1{
 .side{
   color: #17594A;
   font-weight: bold;
+  text-align: left;
 }
 table{
   position: relative;
